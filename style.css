@@ -1,0 +1,21 @@
+header div {
+    /* display:flex; */
+}
+
+.logo div {
+    display:flex;
+    flex-direction: row;
+    margin:10px;
+    width:200px;
+    border: 5px solid black;
+}
+
+.socials {
+    display:flex;
+    flex-direction: row;
+}
+
+.print {
+    display:flex;
+    flex-direction: row;
+}
